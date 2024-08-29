@@ -29,7 +29,7 @@ Driven and detail-oriented Data Analyst with a strong background in administrati
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,mysql,r,github,git,vscode" /><br>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=python,Jupyter,Mysql,Tableau,github" /><br>
 </div>
 
 <br/>
